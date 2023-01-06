@@ -1,1 +1,1 @@
-# react-infinite-carousel
+React component
